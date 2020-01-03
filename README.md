@@ -1,0 +1,2 @@
+# This assignment is to recreate the google homepage to the best of my ability. By the end of this I will be able to use basic HTML and CSS. I will also use the web developer tools in the creation of this project.
+# From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
